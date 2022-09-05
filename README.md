@@ -2,7 +2,7 @@
 
 currently: DevOps engineer @ MasterCard  
 
-see [jdanker.com](jdanker.com) for more of what I am working on
+see [jdanker.com](https://www.jdanker.com) for more of what I am working on
 
 <!---
 jdanker/jdanker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
