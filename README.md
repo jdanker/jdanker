@@ -1,6 +1,6 @@
 👋 Hi, I’m Jahred
 
-currently: DevOps engineer @ MasterCard  
+currently: DevOps engineer @ Booz Allen Hamilton  
 
 see [jdanker.com](https://www.jdanker.com) for more of what I am working on
 
